@@ -40,7 +40,7 @@ I have learned and implement below things
 8. Closest Point
 9. CCD & Monte Carlo Calculation & Exact Inertia Tensors for Convex Hulls
 
-## Game Physics The Next Week
+## Game Physics The rest of Your Life
 
 I have learned and implement below things
 
