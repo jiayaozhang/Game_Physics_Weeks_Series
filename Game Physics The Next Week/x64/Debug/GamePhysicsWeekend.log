@@ -1,0 +1,53 @@
+﻿  application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\libs\glfw-3.2.1.bin.WIN64\include\GLFW\glfw3.h(98): message : 参见“APIENTRY”的前一个定义
+  Fileio.cpp
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Fileio.cpp(44,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Fileio.cpp(57,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Fileio.cpp(60,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Fileio.cpp(118,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Fileio.cpp(121,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  Bounds.cpp
+  LCP.cpp
+  Body.cpp
+  Broadphase.cpp
+  Constraints.cpp
+  ConstraintConstantVelocity.cpp
+  ConstraintDistance.cpp
+  ConstraintHinge.cpp
+  ConstraintMotor.cpp
+  ConstraintMover.cpp
+  ConstraintOrientation.cpp
+  ConstraintPenetration.cpp
+  Contact.cpp
+  GJK.cpp
+  Intersections.cpp
+  Manifold.cpp
+  Shapes.cpp
+  正在生成代码...
+  正在编译...
+  ShapeBox.cpp
+  ShapeConvex.cpp
+  ShapeSphere.cpp
+  Buffer.cpp
+  Descriptor.cpp
+  DeviceContext.cpp
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Renderer\DeviceContext.cpp(210,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Renderer\DeviceContext.cpp(649,81): warning C4244: “初始化”: 从“const VkDeviceSize”转换到“int”，可能丢失数据
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Renderer\DeviceContext.cpp(649,35): warning C4244: “初始化”: 从“const VkDeviceSize”转换到“const int”，可能丢失数据
+  Fence.cpp
+  FrameBuffer.cpp
+  Image.cpp
+  model.cpp
+  OffscreenRenderer.cpp
+  Pipeline.cpp
+  Samplers.cpp
+  shader.cpp
+  SwapChain.cpp
+  Scene.cpp
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Scene.cpp(130,59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\code\Scene.cpp(130,59): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  GamePhysicsWeekend.vcxproj -> D:\JainiceResearch\VulkanRenderer\Game Physics in one weekend\x64\Debug\GamePhysicsWeekend.exe
